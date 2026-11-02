@@ -1,0 +1,6 @@
+{
+  "name": "Uganda Gold Expedition",
+  "description": "The world's only hands-on anti-fraud & due-diligence expedition across East Africa's gold trade architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
